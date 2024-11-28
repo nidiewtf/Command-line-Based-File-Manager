@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fc587eb-a824-4cf5-ab50-d7b4e37289e1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\IDEAshixun\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2oH3pHGbTfwsFBPMBhExhDQs1CQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FileManagerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileManagerApp" />
+      <module name="FileManager" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FileManagerApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fc587eb-a824-4cf5-ab50-d7b4e37289e1" name="Default Changelist" comment="" />
+      <created>1730512856151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730512856151</updated>
+      <workItem from="1730512857184" duration="1643000" />
+      <workItem from="1730514526972" duration="2066000" />
+      <workItem from="1730516775580" duration="1290000" />
+      <workItem from="1730534517490" duration="872000" />
+      <workItem from="1730550086097" duration="1795000" />
+      <workItem from="1730551906296" duration="5284000" />
+      <workItem from="1730599620378" duration="1790000" />
+      <workItem from="1730601445535" duration="1785000" />
+      <workItem from="1730603256596" duration="2181000" />
+      <workItem from="1730605463652" duration="1002000" />
+      <workItem from="1730812037033" duration="1782000" />
+      <workItem from="1730813843188" duration="953000" />
+      <workItem from="1730815648184" duration="1230000" />
+      <workItem from="1730860074823" duration="1781000" />
+      <workItem from="1730861911598" duration="1783000" />
+      <workItem from="1730863717840" duration="1783000" />
+      <workItem from="1730865529350" duration="2356000" />
+      <workItem from="1730867919391" duration="1782000" />
+      <workItem from="1730869724724" duration="767000" />
+      <workItem from="1730870523365" duration="865000" />
+      <workItem from="1730974725252" duration="1781000" />
+      <workItem from="1730976576564" duration="1781000" />
+      <workItem from="1730978382409" duration="1781000" />
+      <workItem from="1730980187521" duration="1826000" />
+      <workItem from="1730982040202" duration="1933000" />
+      <workItem from="1730984001940" duration="1782000" />
+      <workItem from="1730985812720" duration="1781000" />
+      <workItem from="1730987618173" duration="1784000" />
+      <workItem from="1730989426622" duration="210000" />
+      <workItem from="1730992633654" duration="23000" />
+      <workItem from="1731033965442" duration="2192000" />
+      <workItem from="1731036365117" duration="1493000" />
+      <workItem from="1731038085172" duration="490000" />
+      <workItem from="1731057008917" duration="2091000" />
+      <workItem from="1731059126401" duration="1524000" />
+      <workItem from="1731060946376" duration="1782000" />
+      <workItem from="1731062752053" duration="580000" />
+      <workItem from="1731080663506" duration="1392000" />
+      <workItem from="1731083211911" duration="1434000" />
+      <workItem from="1731084667743" duration="24000" />
+      <workItem from="1731084715290" duration="46000" />
+      <workItem from="1731085816999" duration="125000" />
+      <workItem from="1731085953764" duration="136000" />
+      <workItem from="1731086096140" duration="64000" />
+      <workItem from="1731086237837" duration="19000" />
+      <workItem from="1731119281591" duration="1581000" />
+      <workItem from="1731122621810" duration="1419000" />
+      <workItem from="1731124500824" duration="1783000" />
+      <workItem from="1731126306977" duration="1654000" />
+      <workItem from="1731128226506" duration="922000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="138" y="62" key="#Project_Structure" timestamp="1730512877622">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="138" y="62" key="#Project_Structure/0.0.1707.912@0.0.1707.912" timestamp="1730512877622" />
+    <state x="379" y="301" key="FileChooserDialogImpl" timestamp="1731086086852">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="379" y="301" key="FileChooserDialogImpl/0.0.1707.912@0.0.1707.912" timestamp="1731086086852" />
+    <state width="1208" height="484" key="GridCell.Tab.0.bottom" timestamp="1731128912517">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1707" height="508" key="GridCell.Tab.0.bottom/0.0.1707.912/-1920.0.1920.1032@0.0.1707.912" timestamp="1730870662173" />
+    <state width="1707" height="355" key="GridCell.Tab.0.bottom/0.0.1707.912/2560.0.1920.1032@0.0.1707.912" timestamp="1730989638133" />
+    <state width="1208" height="484" key="GridCell.Tab.0.bottom/0.0.1707.912@0.0.1707.912" timestamp="1731128912517" />
+    <state width="1208" height="484" key="GridCell.Tab.0.center" timestamp="1731128912516">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1707" height="508" key="GridCell.Tab.0.center/0.0.1707.912/-1920.0.1920.1032@0.0.1707.912" timestamp="1730870662173" />
+    <state width="1707" height="355" key="GridCell.Tab.0.center/0.0.1707.912/2560.0.1920.1032@0.0.1707.912" timestamp="1730989638133" />
+    <state width="1208" height="484" key="GridCell.Tab.0.center/0.0.1707.912@0.0.1707.912" timestamp="1731128912516" />
+    <state width="1208" height="484" key="GridCell.Tab.0.left" timestamp="1731128912515">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1707" height="508" key="GridCell.Tab.0.left/0.0.1707.912/-1920.0.1920.1032@0.0.1707.912" timestamp="1730870662173" />
+    <state width="1707" height="355" key="GridCell.Tab.0.left/0.0.1707.912/2560.0.1920.1032@0.0.1707.912" timestamp="1730989638133" />
+    <state width="1208" height="484" key="GridCell.Tab.0.left/0.0.1707.912@0.0.1707.912" timestamp="1731128912515" />
+    <state width="1208" height="484" key="GridCell.Tab.0.right" timestamp="1731128912517">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1707" height="508" key="GridCell.Tab.0.right/0.0.1707.912/-1920.0.1920.1032@0.0.1707.912" timestamp="1730870662173" />
+    <state width="1707" height="355" key="GridCell.Tab.0.right/0.0.1707.912/2560.0.1920.1032@0.0.1707.912" timestamp="1730989638133" />
+    <state width="1208" height="484" key="GridCell.Tab.0.right/0.0.1707.912@0.0.1707.912" timestamp="1731128912517" />
+    <state x="64" y="202" width="921" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1731062062272">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="64" y="202" width="921" height="640" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1707.912@0.0.1707.912" timestamp="1731062062272" />
+    <state x="550" y="213" key="refactoring.ChangeSignatureDialog" timestamp="1730989468350">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="550" y="213" key="refactoring.ChangeSignatureDialog/0.0.1707.912/2560.0.1920.1032@0.0.1707.912" timestamp="1730989468350" />
+    <state x="516" y="193" width="672" height="678" key="search.everywhere.popup" timestamp="1731086036192">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="516" y="193" width="672" height="678" key="search.everywhere.popup/0.0.1707.912/-1920.0.1920.1032@0.0.1707.912" timestamp="1730870700245" />
+    <state x="516" y="193" width="672" height="678" key="search.everywhere.popup/0.0.1707.912/2560.0.1920.1032@0.0.1707.912" timestamp="1730816245495" />
+    <state x="516" y="193" width="672" height="678" key="search.everywhere.popup/0.0.1707.912@0.0.1707.912" timestamp="1731086036192" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
